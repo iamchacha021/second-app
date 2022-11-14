@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(94, 134, 135, 0.507);
+    min-height: 200vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 3rem;
+    color: brown;
+}
+
+h1, h2, h3 {
+    background-color: aliceblue;
+    color: blue;
+    font-size: 4rem;
+    font-weight: 800;
+    font-family: monospace;
+}
+
+.circle {
+    margin: 1rem auto;
+    height: 50px;
+    color: yellow;
+    width: 50px;
+    border: red 3px solid;
+    border-radius: 25px;
+}
